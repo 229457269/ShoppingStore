@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoppingStore</string>
+    <string name="price">价格</string>
+    <string name="product_name">商品名称</string>
+</resources>
